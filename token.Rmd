@@ -1,0 +1,18 @@
+---
+title: "Untitled"
+output: html_document
+date: "2024-02-25"
+---
+
+```{r}
+library(usethis)
+use_git_config(user.name = "Mukil Rangaraman", user.email = "mukil.rangaraman@gmail.com")
+```
+
+```{r}
+usethis::create_github_token()
+```
+
+```{r}
+gitcreds::gitcreds_set() 
+```

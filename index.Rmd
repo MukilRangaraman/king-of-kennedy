@@ -1,0 +1,26 @@
+---
+title: "King of Kennedy"
+output:
+  html_document:
+    theme: cerulean 
+---
+
+# Welcome to My GitHub Homepage!
+
+This is a fantastic place where I showcase my projects, ideas, and more!
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+## About Me
+
+I'm a passionate coder, data enthusiast, and lifelong learner. 
+
+## Projects
+
+Here are some of my exciting projects:
+
+- Project 1
+- Project 2
+- Project 3
+
+Feel free to explore more on my GitHub repository!
